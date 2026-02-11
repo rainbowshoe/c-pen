@@ -1,0 +1,20 @@
+body{
+    background-color: #BEBEBE;
+}
+h1{
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    padding-top: 5px;
+    text-align: center;
+    font-size: 120px;
+}
+#cpen {
+    display: flex;
+    justify-content: center;
+    padding-top: 35px;
+}
+video{
+    padding-left: 10%;
+}
+html {
+    overflow-y: hidden;
+}
